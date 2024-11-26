@@ -1,8 +1,7 @@
 
-Hello there, I'm Spencer Howlett.
-I'm interested in machine learning in all of it's applications. I want to continue to hone my skills and work on my own personal project. Over the last 2 years 
-I've worked on my own stock prediction system built off of Tensorflow and Scikit-learn. I'm currently finishing my last semeseter of college at Colorado State 
-University and am looking to get my first industry job.
+Over the last two years I've been eveloping complex simulations, running cloud based projects, and performing cutting edge research.
+I'm interested in machine learning in all of it's applications. I've been continueing to develop my skills through my job and the
+Stock Prediction System on this Github.
 
 You can reach me at spencer.v.howlett@gmail.com
 
